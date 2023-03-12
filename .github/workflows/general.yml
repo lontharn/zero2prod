@@ -1,5 +1,4 @@
-name: Rust CI
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+name Rust NewsLetter:
 
 on:
   push:
