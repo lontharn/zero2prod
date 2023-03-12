@@ -1,4 +1,4 @@
-name: Rust NewsLett
+name: Rust NewsLetter
 
 on:
   push:
