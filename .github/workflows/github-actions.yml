@@ -59,4 +59,5 @@ jobs:
           cargo audit
 
       - name: Build
+        run: |
           cargo build --release
